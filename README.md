@@ -1,4 +1,4 @@
-# comunidadedevops-terraform
+# Terraform EKS
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
@@ -38,3 +38,11 @@ No resources.
 
 No outputs.
 <!-- END_TF_DOCS -->
+
+# Ref
+https://www.udemy.com/course/terraform-para-aws
+
+https://devops.mateusmuller.me/posts/como-criar-cluster-eks-com-terraform/
+
+https://github.com/mateusmuller/terraform-eks-fully-private
+
