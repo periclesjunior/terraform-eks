@@ -50,6 +50,6 @@ No modules.
 |------|-------------|
 | <a name="output_priv_subnet_1a"></a> [subnet\_priv\_1a](#output\_subnet\_priv\_1a) | n/a |
 | <a name="output_priv_subnet_1b"></a> [subnet\_priv\_1b](#output\_subnet\_priv\_1b) | n/a |
-| <a name="output_subnet_pub_1a"></a> [subnet\_pub\_1a](#output\_subnet\_pub\_1a) | n/a |
-| <a name="output_subnet_pub_1b"></a> [subnet\_pub\_1b](#output\_subnet\_pub\_1b) | n/a |
+| <a name="output_pub_subnet_1a"></a> [subnet\_pub\_1a](#output\_subnet\_pub\_1a) | n/a |
+| <a name="output_pub_subnet_1b"></a> [subnet\_pub\_1b](#output\_subnet\_pub\_1b) | n/a |
 <!-- END_TF_DOCS -->

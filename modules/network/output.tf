@@ -1,8 +1,8 @@
-output "subnet_pub_1a" {
+output "pub_subnet_1a" {
   value = aws_subnet.eks_subnet_public_1a.id
 }
 
-output "subnet_pub_1b" {
+output "pub_subnet_1b" {
   value = aws_subnet.eks_subnet_public_1b.id
 }
 
