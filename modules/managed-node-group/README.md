@@ -29,8 +29,8 @@ No modules.
 |------|-------------|------|---------|:--------:|
 | <a name="input_cluster_name"></a> [cluster\_name](#input\_cluster\_name) | EKS cluster name to create MNG | `string` | n/a | yes |
 | <a name="input_project_name"></a> [project\_name](#input\_project\_name) | Project name to be used to name the resources (Name tag) | `string` | n/a | yes |
-| <a name="input_subnet_private_1a"></a> [subnet\_private\_1a](#input\_subnet\_private\_1a) | Subnet ID from AZ 1a | `string` | n/a | yes |
-| <a name="input_subnet_private_1b"></a> [subnet\_private\_1b](#input\_subnet\_private\_1b) | Subnet ID from AZ 1b | `string` | n/a | yes |
+| <a name="input_private_subnet_1a"></a> [subnet\_private\_1a](#input\_subnet\_private\_1a) | Subnet ID from AZ 1a | `string` | n/a | yes |
+| <a name="input_private_subnet_1b"></a> [subnet\_private\_1b](#input\_subnet\_private\_1b) | Subnet ID from AZ 1b | `string` | n/a | yes |
 | <a name="input_tags"></a> [tags](#input\_tags) | Tags to be added to AWS resources | `map(any)` | n/a | yes |
 
 ## Outputs

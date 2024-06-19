@@ -3,8 +3,8 @@ resource "aws_eks_node_group" "eks_managed_node_group" {
   node_group_name = "${var.project_name}-nodegroup"
   node_role_arn   = aws_iam_role.eks_mng_role.arn
   subnet_ids = [
-    var.subnet_private_1a,
-    var.subnet_private_1b
+    var.private_subnet_1a,
+    var.private_subnet_1b
   ]
   tags = merge(
     var.tags,
